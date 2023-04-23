@@ -1,0 +1,3 @@
+[submodule "navigation/ros1_rplidar/rplidar_ros_myfork"]
+	path = navigation/ros1_rplidar/rplidar_ros_myfork
+	url = https://github.com/Hberto/rplidar_ros_myfork.git
